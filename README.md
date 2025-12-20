@@ -34,7 +34,7 @@ https://github.com/Thooms-coder/zagi-data-warehouse
 **Python | Big Data | ETL | Visualization**  
 Large-scale analysis of urban traffic using image and audio data. Built reproducible ETL pipelines and cross-modal validation workflows to detect anomalies and data quality issues across heterogeneous data sources.
 
-https://github.com/yourusername/multimodal-taxi-data-analysis-big-data
+https://github.com/Thooms-coder/multimodal-taxi-data-analysis-big-data
 
 ---
 
@@ -42,7 +42,7 @@ https://github.com/yourusername/multimodal-taxi-data-analysis-big-data
 **R | Statistical Analysis | Policy Analytics**  
 Research-driven analysis of 3,142 U.S. counties examining how SNAP participation relates to structural cost-of-living burdens. Applied PCA, regression, and clustering to uncover regional cost patterns and policy-relevant insights.
 
-https://github.com/yourusername/snap-participation-and-structural-cost-analysis
+https://github.com/Thooms-coder/snap-participation-and-structural-cost-analysis
 
 ---
 
@@ -50,7 +50,7 @@ https://github.com/yourusername/snap-participation-and-structural-cost-analysis
 **Python | Flask | Full-Stack Application**  
 Designed and built a full-stack productivity and wellness planning platform with user authentication, task tracking, balance scoring, and a relational SQL backend supporting multi-user workflows.
 
-https://github.com/yourusername/shibui-work-wellness-planner
+https://github.com/Thooms-coder/shibui-work-wellness-planner
 
 ---
 
@@ -58,7 +58,7 @@ https://github.com/yourusername/shibui-work-wellness-planner
 **R | Shiny | Decision Support**  
 Interactive Shiny application enabling engineering teams to compare materials by cost, strength, and sustainability using Ashby-style plots, radar charts, and dynamic filtering.
 
-https://github.com/yourusername/material_selector_shinyApp
+https://github.com/Thooms-coder/material_selector_shinyApp
 
 ---
 
@@ -66,7 +66,7 @@ https://github.com/yourusername/material_selector_shinyApp
 **Python | Machine Learning**  
 Machine learning pipeline predicting U.S. metro status using engineered cost-of-living features and multiple classification models, with an emphasis on interpretability and feature structure.
 
-https://github.com/yourusername/metro-status-prediction-pipeline
+https://github.com/Thooms-coder/metro-status-prediction-pipeline
 
 ---
 
