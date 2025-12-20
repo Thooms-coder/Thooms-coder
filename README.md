@@ -26,7 +26,7 @@ My background combines:
 **SQL | Data Engineering**  
 End-to-end OLTP → staging → data warehouse implementation for a retail and rental business. Designed dimensional models with SCD Type 2 handling, intermediate fact tables, incremental and late-arriving fact loads, analytical aggregates, and automated ETL validation.
 
-https://github.com/yourusername/zagi-data-warehouse
+https://github.com/Thooms-coder/zagi-data-warehouse
 
 ---
 
