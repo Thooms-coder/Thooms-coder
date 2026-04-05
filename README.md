@@ -77,7 +77,7 @@ Designed and deployed a SQL-backed system for a 200+ member rowing club, automat
 
 ## Contact
 
-- 📍 Potsdam, New York  
+- 📍 Boston, Massachusettes
 - 📧 mungosmj@clarkson.edu  
 - 💻 https://github.com/Thooms-coder  
 
