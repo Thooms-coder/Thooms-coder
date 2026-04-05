@@ -1,90 +1,93 @@
 # Mutsa Mungoshi
 
-I am an **Applied Data Scientist and Data Engineer** with a foundation in **engineering, machine learning, and scalable data systems**. I am currently pursuing an **M.S. in Applied Data Science at Clarkson University (GPA: 4.0)**, where my work focuses on building reliable data pipelines, production-ready analytical systems, and decision-support tools for research, operations, and policy.
+I am an **Applied Data Scientist, Data Engineer, and Forward-Deployed Engineer** focused on building **end-to-end data and machine learning systems that operate in real-world environments**.
 
-My background combines:
-- Engineering-driven problem solving
-- End-to-end data system design (OLTP → ETL → analytics)
-- Statistical modeling and machine learning
-- Translating complex datasets into actionable insight
+I am currently pursuing an **M.S. in Applied Data Science at Clarkson University (GPA: 4.0)**, where my work centers on **deploying production-grade pipelines, interactive analytical systems, and decision-support tools** across industrial, operational, and policy domains.
+
+My work sits at the intersection of:
+- Engineering-driven problem solving  
+- Full-stack data systems (OLTP → ETL → analytics → application layer)  
+- Applied machine learning and statistical modeling  
+- Forward-deployed systems integrated directly with users and workflows  
 
 ---
 
 ## Technical Focus
 
-- **Data Engineering:** SQL, data warehousing, star schemas, SCD Type 2, ETL/ELT pipelines, incremental fact loads  
-- **Analytics & Machine Learning:** Python, R, regression, PCA, clustering, classification, feature engineering  
-- **Visualization & Reporting:** Tableau, Plotly, Shiny, interactive dashboards  
-- **Applications:** Flask, SQLAlchemy, REST-style backends, full CRUD systems  
-- **Tools & Platforms:** Git, MySQL, Snowflake, Docker, AWS (EC2, S3, Lambda), Airflow
+**Data Engineering & Systems**  
+SQL (PostgreSQL, MySQL), data warehousing, dimensional modeling, star schemas, SCD Type 2, ETL/ELT pipelines, incremental processing  
+
+**Machine Learning & Analytics**  
+Python, R, regression, classification, clustering, PCA, feature engineering, statistical diagnostics  
+
+**Visualization & Decision Support**  
+Plotly, Tableau, Shiny, interactive dashboards, analytical reporting systems  
+
+**Applications & Backend Systems**  
+Flask, SQLAlchemy, REST APIs, full CRUD systems, Streamlit  
+
+**Tools & Infrastructure**  
+Git, Docker, Airflow, Snowflake, AWS (EC2, S3, Lambda)  
 
 ---
 
 ## Selected Projects
 
+### BREAK IT — AI Agent Red Teaming Platform (Hackathon Winner)
+**React (Vite), TypeScript, LLM APIs, Adversarial Testing**  
+Built an adversarial evaluation system for LLM agents, enabling real-time exploitation and behavioral validation of vulnerabilities such as prompt injection, role impersonation, and data exfiltration. Designed a closed-loop pipeline combining agent parsing, automated vulnerability detection, simulation, and model-based exploit validation.  
+
+🔗 https://github.com/Thooms-coder/agent-breaker-studio  
+
+---
+
+### Gateway Cities Investigative Analytics Platform (Hackathon Winner)
+**Python, SQL, Streamlit, Plotly, PostgreSQL, LLMs**  
+Developed a civic analytics platform powered by large-scale census data, including a normalized metric warehouse and an LLM-driven copilot for natural language querying, statistical analysis, and interactive visualization.  
+
+🔗 https://github.com/Thooms-coder/ma-gateway-cities-dashboard
+
+---
+
+### Multimodal Traffic Sensor Validation System  
+**Python, PyTorch, Signal Processing, Pandas, Plotly**  
+Engineered a multi-branch ETL pipeline integrating audio, image, and sensor data to perform cross-modal validation of traffic systems. Built independent feature pipelines and statistical workflows, reducing false-positive anomaly alerts by 22%.  
+
+🔗 https://github.com/Thooms-coder/multimodal-taxi-data-analysis-big-data
+---
+
 ### ZAGI Data Warehouse  
-**SQL | Data Engineering**  
-End-to-end OLTP → staging → data warehouse implementation for a retail and rental business. Designed dimensional models with SCD Type 2 handling, intermediate fact tables, incremental and late-arriving fact loads, analytical aggregates, and automated ETL validation.
+**SQL, Data Engineering**  
+Designed and implemented a full OLTP → staging → warehouse pipeline with dimensional modeling, SCD Type 2 handling, incremental loads, and analytical aggregation for a retail and rental system.  
 
-https://github.com/Thooms-coder/zagi-data-warehouse
-
----
-
-### Multimodal Taxi Data Analysis  
-**Python | Big Data | ETL | Visualization**  
-Large-scale analysis of urban traffic using image and audio data. Built reproducible ETL pipelines and cross-modal validation workflows to detect anomalies and data quality issues across heterogeneous data sources.
-
-https://github.com/Thooms-coder/multimodal-taxi-data-analysis-big-data
-
----
-
-### SNAP Participation and Structural Cost Analysis  
-**R | Statistical Analysis | Policy Analytics**  
-Research-driven analysis of 3,142 U.S. counties examining how SNAP participation relates to structural cost-of-living burdens. Applied PCA, regression, and clustering to uncover regional cost patterns and policy-relevant insights.
-
-https://github.com/Thooms-coder/snap-participation-and-structural-cost-analysis
-
----
-
-### Shibui Productivity Planner  
-**Python | Flask | Full-Stack Application**  
-Designed and built a full-stack productivity and wellness planning platform with user authentication, task tracking, balance scoring, and a relational SQL backend supporting multi-user workflows.
-
-https://github.com/Thooms-coder/shibui-work-wellness-planner
-
----
-
-### Material Selector Dashboard  
-**R | Shiny | Decision Support**  
-Interactive Shiny application enabling engineering teams to compare materials by cost, strength, and sustainability using Ashby-style plots, radar charts, and dynamic filtering.
-
-https://github.com/Thooms-coder/material_selector_shinyApp
-
----
-
-### Metro Status Prediction Pipeline  
-**Python | Machine Learning**  
-Machine learning pipeline predicting U.S. metro status using engineered cost-of-living features and multiple classification models, with an emphasis on interpretability and feature structure.
-
-https://github.com/Thooms-coder/metro-status-prediction-pipeline
+🔗 https://github.com/Thooms-coder/zagi-data-warehouse  
 
 ---
 
 ## Applied Experience
 
-- **Research Assistant – Data Analysis (Clarkson University):**  
-  Analyzed 50,000+ time-series records from wastewater treatment systems, built regression and time-series models, and developed interactive visual analytics to guide operational decisions.
+**Research Assistant — Applied Data Science (Clarkson University)**  
+Built time-series pipelines and analytical models on 50,000+ high-frequency wastewater observations, developing predictive insights and decision-support tools for operational optimization.  
 
-- **Software Developer & Database Assistant (Clarkson University):**  
-  Engineered a SQL-backed system for a 200-member rowing club, designing relational schemas and ETL pipelines that automated reporting and reduced manual effort.
+**Software Developer & Database Engineer (Clarkson University)**  
+Designed and deployed a SQL-backed system for a 200+ member rowing club, automating scheduling, reporting, and operational workflows through a forward-deployed data system.  
 
 ---
 
 ## Contact
 
-- Potsdam, New York  
-- Email: mungosmj@clarkson.edu  
-- GitHub: https://github.com/Thooms-coder 
+- 📍 Potsdam, New York  
+- 📧 mungosmj@clarkson.edu  
+- 💻 https://github.com/Thooms-coder  
 
-I am interested in roles and collaborations involving **data engineering, applied machine learning, analytics systems, and research-driven data work**.
+---
+
+## Interests
+
+I am interested in roles and collaborations involving:
+- Data Engineering  
+- Applied Machine Learning  
+- Forward-Deployed Engineering  
+- Analytics Systems & Decision Support  
+- Research-driven data applications  
 
